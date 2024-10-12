@@ -3,7 +3,7 @@
 // This design will serve as the backbone for translating slang code into representations that can be verified 
 // using the Z3 theorem prover
 
-module VerificationAst
+module verification_ast
 
 /// Basic types used in verification languages
 type Var = string      // Variable names are represented as strings

@@ -1,4 +1,4 @@
-module SlangAst
+module slang_ast
 
 // The primary role of SlangAst.fs is to represent the code that is parsed from slang source files. 
 // The parser will use this structure to create an internal representation of the program.
